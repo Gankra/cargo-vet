@@ -27,7 +27,7 @@ home = "0.5.3"
 linked-hash-map = { version = "0.5.4", features = ["serde_impl"] }
 log = "0.4.16"
 nom = "7.1.1"
-reqwest = { version = "0.11.10", features = ["blocking"] }
+reqwest = { version = "0.11.11", features = ["blocking"] }
 serde = "1.0.136"
 serde_json = "1.0.79"
 simplelog = "0.12.0"
